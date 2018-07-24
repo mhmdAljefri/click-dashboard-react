@@ -6,7 +6,6 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-sidebar">
-          Sidbar
           <ul>
             <li></li>
             <li></li>
